@@ -58,12 +58,12 @@ under certain conditions; read LICENSE for details.`
 
 -pool-id string
 
-	Example: -pool-id=904f935185ef96c1ab4daf11e5d84b22
+	Example: -pool-id=EQD8lJWSzljHBqXx0_sLqG4xtCv19YR530CBpjxtTdHHq99M
 	A unique identifier of a pool participant.
 
 -url string
   
-	Mining pool API url. (default "https://pool.tonuniverse.com")
+	Mining pool API url. (default "https://server1.whalestonpool.com")
 
 -stats bool
   
